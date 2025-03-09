@@ -11,7 +11,7 @@ The purpose of this project is to demonstrate how to implement a Code-First appr
 - Modular and Scalable Architecture
 
 ## 🗄️ Entities
-## 🎬 Movie
+### 🎬 Movie
 ```bash
 public class Movie
 {
@@ -21,7 +21,7 @@ public class Movie
     public int ReleaseYear { get; set; }
 }
 ```
-## 🎮 Game
+### 🎮 Game
 ```bash
 public class Game
 {
